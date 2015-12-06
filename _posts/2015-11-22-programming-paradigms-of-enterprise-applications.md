@@ -1,3 +1,6 @@
+Designing Business logic
+------------------------
+
 OO paradigm: Objects as a main piece of decompsition
 	
 	1/ Controling the change
@@ -49,7 +52,7 @@ Imperative paradigm
 
 
 
-Beans oriented paradigm (OO + AOP)
+Beans (POJO) oriented paradigm (OO + AOP)
   transactions
   logging
   security
@@ -59,11 +62,20 @@ Beans oriented paradigm (OO + AOP)
   ?monitoring
   ?pooling
 	=> A programming model that let us dont care about technology but focus in business logic
+	=> Spring promotes good design practices:
+		<:> Dependency injection for loose coupling
+		<:> AOP for handling the cross cutting concerns
+			=> But you must decide how to structure your business logic
+				<:> Domain model pattern - OO
+				<:> Transaction Script pattern - Procedural
 
   Statelesss & statefull beans ??
   What about the OO principles, (encapsulation, ...) is it still valid for this style ?
   Is the OO the only possible building base that can make beans oriented programming POSSIBLE ??
   Can we build a bean model based in functions ??
 
+
+
+--------
 (Ref 1 : http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.79.4719&rep=rep1&type=pdf)
 
