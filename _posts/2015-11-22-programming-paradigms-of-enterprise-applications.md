@@ -41,6 +41,11 @@ OO paradigm: Objects as a main piece of decompsition
 			=> Can OO style let us think about transformation without pain ???
 
 
+	Encapsulation: isn't just about disallowing direct property access. It also includes making
+		       sure that internal data isn't exposed in a way that can cause unintentional behavioral (e.g: returning
+		       defensive copies of internal structures)
+		       (Ref 3) + (Ref 1 : extension of the Dimeter low)
+
 
 Functional paradigm: Function as a first class citizen and the main piece of decomposition + immutabity
 	>> NO CHANGE TO CONTROL thanks to immutability anstead we think about TRANSFORMATIONS
@@ -79,3 +84,5 @@ Beans (POJO) oriented paradigm (OO + AOP)
 --------
 (Ref 1 : http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.79.4719&rep=rep1&type=pdf)
 
+
+(Ref 2 : http://stackoverflow.com/questions/14633524/difference-between-loose-coupling-encapsulation)
