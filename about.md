@@ -17,10 +17,6 @@ Unit &amp; integration testing, continuous integration, clean code, Object Orien
 Functional programming, Design patterns, Solutions design, Application structure and
 architecture.
 
-### More Information
-
-My github: https://github.com/selkhlifi
-
 ### Contact me
 
 [saadelkhlifi@gmail.com](mailto:saadelkhlifi@gmail.com)
