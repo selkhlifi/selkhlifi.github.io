@@ -1,6 +1,6 @@
 ---
 layout: post
-tilte: Hello world!
+title: Hello world!
 ---
 
 ![_config/yml](/images/config.jpg)
