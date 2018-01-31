@@ -11,6 +11,6 @@ Quand il s'agit de la production, on ne rigole pas, ce sont souvent problèmes c
 <p>
 Dans ce genre de situation, agilité, le bon sens ainsi qu'une bonne maitrise des outils de diagnostic sont la clef gagner le défi.
 <p/>
-![_config.yml](/images/visu_vm.png)
+![_config.yml](/images/visu_vm.jpeg)
 
 To be continued ..
