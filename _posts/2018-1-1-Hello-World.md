@@ -1,14 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Dégradation de perf, quoi faire!
 ---
+Cet article à pour but de partager une approche avec les importantes étapes à suivre lors d'une intervention sur analyse d'un phénomene lié à une dégradation de performance.<br/>
+Quand il s'agit de la production, on ne rigole pas, ce sont souvent problèmes critiques qu'il faut contourner rapidement et efficacement<br/>
+Dans ce genre de situation, agilité, le bon sens ainsi qu'une bonne maitrise des outils de diagnostic sont la clef gagner le défi.
+<br/>
 
-### Title1
-hello
 
-### Title2
-world
+![_config.yml]({{ site.baseurl }}/images/visu_vm.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+To be continued ..
