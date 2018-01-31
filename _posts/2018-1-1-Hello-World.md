@@ -11,6 +11,7 @@ Quand il s'agit de la production, on ne rigole pas, ce sont souvent problèmes c
 <p>
 Dans ce genre de situation, agilité, le bon sens ainsi qu'une bonne maitrise des outils de diagnostic sont la clef gagner le défi.
 <p/>
-![an image alt text]({{ site.baseurl }}/images/visu_vm.jpeg"VisualVM")
+![an image alt text]({{ site.baseurl }}/images/visu_vm.jpeg "VisualVM")
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 To be continued ..
